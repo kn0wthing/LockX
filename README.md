@@ -1,6 +1,8 @@
 # lockx
 
-A new Flutter project.
+Stores your credentials in phone storage only which is much safer than processing any third party servers
+Import/ Export your creds with encrption algorithms.
+Uses AES algorithm to encrypt the passwords
 
 ## Getting Started
 
